@@ -1,0 +1,16 @@
+body {
+	background-color: #D8BFD8;
+}
+
+h2 {
+	text-align: center;
+}
+
+.ogloszenie {
+	border: solid 2px blue;
+	margin: 1em 400px 1em 50px;
+	padding: 1em;
+	background-color: #DDFFDD;
+	width: 400px;
+}
+
